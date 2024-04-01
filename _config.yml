@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/hanadinhh/">LinkedIn</a> 
   <br>
-  [Resume](./pdf/HanaDinh_Resume.pdf)
+  <a href="/pdf/HanaDinh_Resume.pdf" class="btn btn--info">Resume</a>
   <br>
   <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
   <br>
