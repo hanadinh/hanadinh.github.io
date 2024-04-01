@@ -48,10 +48,10 @@ Sell yourself!
 
 ## Hobbies
 
-- Cook (especially Vietnamese food). My specialty is spring rolls and braised pork belly.
-- Played board games
-- Play Nintendo Switch
-- Sleep
+- Cook (especially Vietnamese food). My specialty is spring rolls and braised pork belly. 👩‍🍳
+- Play board games 🎲
+- Play Nintendo Switch 🎮
+- Sleep 😴
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
