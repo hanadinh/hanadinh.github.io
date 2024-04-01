@@ -1,14 +1,8 @@
 ## About Me
 
-What's up? hey\|you
+Hi there!
 
-I am an awesome student at Lehigh, you should hire me!
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
+I’m a senior studying Computer Science and Business at Lehigh University in Pennsylvania. I am an international student originally from Saigon, Vietnam and I came over to the US to study abroad during my 11th grade. I previously had a software engineering internship at Credit Karma. Besides that, I have been a TA throughout my time at Lehigh. In my free time, I like to play board games and Nintendo Switch with my friends. I also like to cook and my specialty dishes are spring rolls and Vietnamese braised pork belly. 
 
 ---
 
