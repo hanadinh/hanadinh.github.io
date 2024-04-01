@@ -48,7 +48,8 @@ Sell yourself!
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+- Cook (especially Vietnamese food). My specialty is spring rolls and braised pork belly.
+- 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
