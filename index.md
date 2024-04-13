@@ -2,7 +2,7 @@
 
 Hi there!
 
-I’m a senior studying Computer Science and Business at Lehigh University in Pennsylvania. I am  originally from Saigon, Vietnam and I came over to the US to study abroad during my 11th grade. I previously had a software engineering internship at Credit Karma. Besides that, I have been a TA throughout my time at Lehigh. 
+I'm a senior studying in Computer Science & Business (CSB) honors program, with a minor in Data Science at Lehigh University. I am  originally from Saigon, Vietnam and I came over to the US to study abroad during my 11th grade. I previously had a software engineering internship at Credit Karma. Besides that, I have been a TA throughout my time at Lehigh. 
 
 ---
 
@@ -26,23 +26,35 @@ This repository contains an analysis of housing sales data in Ames, Iowa, aimed 
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Analysis of Patent-Level Research and Technology (RETech) Data](asgn04exercises/asgn04exercises)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This repository contains code and data for analyzing patent-level Research and Technology (RETech) trends over time. The analysis focuses on understanding industry-level patterns in patenting activities and technological innovation.
+
+<img src="asgn04exercises/output_18_0.png?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Visualizing Firm Portfolio Returns in Python](asgn03exercises/asgn03exercises)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This repository contains code for analyzing and plotting various visualizations related to firm portfolio returns in 2020, including line plots, histograms, box plots, and scatter plots. The analysis aims to understand the performance of portfolios composed of firms with different levels of leverage and operating in various sectors and to master the art of visualizing financial data in Python.
+
+<img src="asgn03exercises/output_6_0.png?raw=true"/>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
+I have full-stack experience working in various technologies including:
+- Frontend: React and Angular
+- Backend: Node.js and Spring Boot
+- Databases: OracleDB, PostgreSQL, and MongoDB.
 
-Sell yourself!
+My strongest programming languages are:
+- Java
+- C/C++
+- JavaScript
+
+Looking for a full-time software engineering position where I can leverage my technical skills and business acumen to develop innovative solutions that drive business growth and enhance user experiences. Feel free to contact me at *[hanadinhh@gmail.com](mailto:hanadinhh@gmail.com)*!
 
 ---
 
