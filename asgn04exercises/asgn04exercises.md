@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---  
 # Assignment 4: Merging
 
 This assignment requires you to 
