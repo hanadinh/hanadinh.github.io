@@ -18,11 +18,11 @@ Natural language processing is a powerful tool for analyzing financial documents
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Ames Housing Sales Analysis](regression/regression)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+This repository contains an analysis of housing sales data in Ames, Iowa, aimed at understanding the factors influencing house prices. The dataset covers a period from 2006 to 2008 and includes various features related to the properties sold, such as lot area, number of rooms, quality ratings, and sale prices.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="regression/output_21_0.png?raw=true"/>
 
 ---
 
@@ -48,7 +48,7 @@ Sell yourself!
 
 ## Hobbies
 
-- Cook (especially Vietnamese food). My specialty is spring rolls and braised pork belly. 👩‍🍳
+- Cook (especially Vietnamese food) 👩‍🍳
 - Play board games 🎲
 - Play Nintendo Switch 🎮
 - Sleep 😴
