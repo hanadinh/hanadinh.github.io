@@ -10,11 +10,11 @@ I’m a senior studying Computer Science and Business at Lehigh University in Pe
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to predict stock returns](report/report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+Natural language processing is a powerful tool for analyzing financial documents like 10-K forms, which provide insights into a company's financial performance and prospects. These annual reports mandated by the SEC can be cumbersome to parse manually. However, through sentiment analysis, investors can swiftly gauge the overall tone of the report, whether positive, negative, or indicative of legal risks, to make more informed investment decisions.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="report/output_38_0.png?raw=true"/>
 
 ---
 
