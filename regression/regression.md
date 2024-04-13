@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 ## Part 1: EDA
 
 _Insert cells as needed below to write a short EDA/data section that summarizes the data for someone who has never opened it before._ 
