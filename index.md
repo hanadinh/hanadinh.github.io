@@ -2,13 +2,19 @@
 
 Hi there!
 
-I'm a senior studying in Computer Science & Business (CSB) honors program, with a minor in Data Science at Lehigh University. I am  originally from Saigon, Vietnam and I came over to the US to study abroad during my 11th grade. I previously had a software engineering internship at Credit Karma. Besides that, I have been a TA throughout my time at Lehigh. 
-
----
+I'm a senior studying in Computer Science & Business (CSB) honors program, with a minor in Data Science at Lehigh University. I am originally from Saigon, Vietnam and I came over to the US to study abroad during my 11th grade. I previously had a software engineering internship at Credit Karma. Besides that, I have been a TA throughout my time at Lehigh. 
 
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+
+_**[Performance of U.S. Congressional Insider Trades Dashboard](https://sus-congress.streamlit.app/)**_
+
+This interactive dashboard provides insights into the performance of U.S. congressional trades, allowing users to search for specific members of Congress and view their performance and trading activities. The dashboard also includes interactive visualizations of trading volumes, returns, and other key metrics to help users understand the impact of insider trading on stock prices and market performance.
+
+<img src="./images/congress_dashboard.png?raw=true"/>
+
+---
 
 _**[Natural language processing 10-Ks to predict stock returns](report/report)**_
 
@@ -40,7 +46,7 @@ This repository contains code for analyzing and plotting various visualizations 
 
 <img src="asgn03exercises/output_6_0.png?raw=true"/>
 
----
+<!-- --- -->
 
 ## Career Objectives
 
@@ -54,9 +60,9 @@ My strongest programming languages are:
 - C/C++
 - JavaScript
 
-Looking for a full-time software engineering position where I can leverage my technical skills and business acumen to develop innovative solutions that drive business growth and enhance user experiences. Feel free to contact me at *[hanadinhh@gmail.com](mailto:hanadinhh@gmail.com)*!
+Feel free to contact me at *[hanadinhh@gmail.com](mailto:hanadinhh@gmail.com)*!
 
----
+<!-- --- -->
 
 ## Hobbies
 
@@ -65,6 +71,6 @@ Looking for a full-time software engineering position where I can leverage my te
 - Play Nintendo Switch 🎮
 - Sleep 😴
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- ---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
